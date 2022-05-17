@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-05-16T15:49:27 ICT" name="Default suite" finished-at="2022-05-16T15:49:45 ICT" duration-ms="17618">
+    <groups>
+    </groups>
+    <test started-at="2022-05-16T15:49:27 ICT" name="Default test" finished-at="2022-05-16T15:49:45 ICT" duration-ms="17618">
+      <class name="popup.popup">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:popup.popup@7880cdf3]" started-at="2022-05-16T15:49:27 ICT" name="beforeTest" finished-at="2022-05-16T15:49:31 ICT" duration-ms="3577" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="TestPopup01()[pri:0, instance:popup.popup@7880cdf3]" started-at="2022-05-16T15:49:31 ICT" name="TestPopup01" finished-at="2022-05-16T15:49:43 ICT" duration-ms="11753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestPopup01 -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:popup.popup@7880cdf3]" started-at="2022-05-16T15:49:43 ICT" name="afterTest" finished-at="2022-05-16T15:49:45 ICT" duration-ms="2241" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- popup.popup -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
