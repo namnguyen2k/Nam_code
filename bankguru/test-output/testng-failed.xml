@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Bank Guru]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Run Chrome(failed)">
+    <classes>
+      <class name="com.bankguru.user.Level_4">
+        <methods>
+          <include name="beforeTest"/>
+          <include name="afterTest"/>
+          <include name="TC_04_loginPage"/>
+        </methods>
+      </class> <!-- com.bankguru.user.Level_4 -->
+    </classes>
+  </test> <!-- Run Chrome(failed) -->
+</suite> <!-- Failed suite [Bank Guru] -->
